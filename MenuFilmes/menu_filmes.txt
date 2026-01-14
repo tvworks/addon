@@ -1,0 +1,153 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AÇÃO[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_ACAO</thumbnail>
+<externallink>LINK_MENU_ACAO</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AVENTURA[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_AVENTURA</thumbnail>
+<externallink>LINK_MENU_AVENTURA</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_ANIMACAO</thumbnail>
+<externallink>LINK_MENU_ANIMACAO</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]COMÉDIA[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_COMEDIA</thumbnail>
+<externallink>LINK_MENU_COMEDIA</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]CRIME</COLOR][/B]</name>
+<thumbnail>LINK_THUMB_CRIME</thumbnail>
+<externallink>LINK_MENU_CRIME</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DOCUMENTÁRIO[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_DOCUMENTARIO</thumbnail>
+<externallink>LINK_MENU_DOCUMENTARIO</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DRAMA[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_DRAMA</thumbnail>
+<externallink>LINK_MENU_DRAMA</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FAMÍLIA[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_FAMILIA</thumbnail>
+<externallink>LINK_MENU_FAMILIA</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FANTASIA[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_FANTASIA</thumbnail>
+<externallink>LINK_MENU_FANTASIA</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FICÇÃO CIENTÍFICA[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_FC</thumbnail>
+<externallink>LINK_MENU_FC</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]GUERRA[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_GUERRA</thumbnail>
+<externallink>LINK_MENU_GUERRA</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]HISTÓRICO[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_HISTORICO</thumbnail>
+<externallink>LINK_MENU_HISTORICO</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]MISTÉRIO[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_MISTERIO</thumbnail>
+<externallink>LINK_MENU_MISTERIO</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ROMANCE[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_ROMANCE</thumbnail>
+<externallink>LINK_MENU_ROMANCE</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SUSPENSE[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_SUSPENSE</thumbnail>
+<externallink>LINK_MENU_SUSPENSE</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TERROR / HORROR[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_TERROR</thumbnail>
+<externallink>LINK_MENU_TERROR</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]THRILLER PSICOLÓGICO[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_THRILLER</thumbnail>
+<externallink>LINK_MENU_THRILLER</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]WESTERN</COLOR][/B]</name>
+<thumbnail>LINK_THUMB_WESTERN</thumbnail>
+<externallink>LINK_MENU_WESTERN</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 4K[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_4K</thumbnail>
+<externallink>LINK_MENU_4K</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES DUBLADOS[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_DUBLADOS</thumbnail>
+<externallink>LINK_MENU_DUBLADOS</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES LEGENDADOS[/COLOR][/B]</name>
+<thumbnail>LINK_THUMB_LEGENDADOS</thumbnail>
+<externallink>LINK_MENU_LEGENDADOS</externallink>
+<fanart>LINK_FANART</fanart>
+</channel>
+
+</channels>
+
