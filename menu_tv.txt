@@ -26,7 +26,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]BRASIL[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/pedrom9550/listas/refs/heads/main/TV/ITALIA/iptvitalia.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/ITALIA/iptvitalia.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
@@ -68,7 +68,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]ESPANHA[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/pedrom9550/listas/refs/heads/main/TV/ESPANHA/iptvespanha.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/ESPANHA/iptvespanha.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
@@ -96,7 +96,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]GERMANIA[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/pedrom9550/listas/refs/heads/main/TV/GERMANIA/iptvgermania.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/GERMANIA/iptvgermania.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
@@ -131,7 +131,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]ITALIA[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/pedrom9550/listas/refs/heads/main/TV/ITALIA/iptvitalia.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/ITALIA/iptvitalia.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
@@ -159,7 +159,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]PORTUGAL[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/pedrom9550/listas/refs/heads/main/TV/PORTUGAL/iptvportugal.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/PORTUGAL/iptvportugal.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
@@ -173,7 +173,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]ROMANIA[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/pedrom9550/listas/refs/heads/main/TV/ROMANIA/ROMANIA.M3U</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/ROMANIA/ROMANIA.M3U</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
@@ -215,7 +215,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]UNITED KINGDOM[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/pedrom9550/listas/refs/heads/main/TV/UNITEDKINGDOM/iptvuk.txt</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/UNITEDKINGDOM/iptvuk.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
