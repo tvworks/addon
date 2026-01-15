@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="São.Paulo/SP..AXN.HD.³.br" tvg-name="AXN [FHD] LEG" tvg-logo="http://lgfp.one/WID" group-title="Canais | Legendados",AXN [FHD] LEG
 http://oneplay.cc:80/MarceloJorgeMartins/EQ3171/122939.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..AXN.HD.³.br" tvg-name="AXN [HD] LEG" tvg-logo="http://lgfp.one/WIB" group-title="Canais | Legendados",AXN [HD] LEG
@@ -116,4 +117,5 @@ http://oneplay.cc:80/MarceloJorgeMartins/EQ3171/331688.ts
 http://oneplay.cc:80/MarceloJorgeMartins/EQ3171/331689.ts
 #EXTINF:-1 tvg-id="São.Paulo/SP..Warner.Channel.HD.br" tvg-name="WARNER [HD] LEG" tvg-logo="http://lgfp.one/JYN2" group-title="Canais | Legendados",WARNER [HD] LEG
 http://oneplay.cc:80/MarceloJorgeMartins/EQ3171/123516.ts
+
 #EXTINF:-1 tvg-id="São.Paulo/SP..Warner.Channel.HD.br" tvg-name="WARNER [SD] LEG" tvg-logo="http://lgfp.one/JYN3" group-title="Canais | Legendados",WARNER [SD] LEG
