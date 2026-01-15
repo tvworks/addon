@@ -24,13 +24,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]RADIOS[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/RADIOS.m3u</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/MenuFilmes/menu_filmes.txt</externallink>
@@ -69,6 +62,13 @@
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]VOD[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>#</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]RADIOS[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/RADIOS.m3u</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
