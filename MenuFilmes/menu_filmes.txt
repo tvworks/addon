@@ -128,26 +128,6 @@
 <fanart>LINK_FANART</fanart>
 </channel>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 4K[/COLOR][/B]</name>
-<thumbnail>LINK_THUMB_4K</thumbnail>
-<externallink>LINK_MENU_4K</externallink>
-<fanart>LINK_FANART</fanart>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES DUBLADOS[/COLOR][/B]</name>
-<thumbnail>LINK_THUMB_DUBLADOS</thumbnail>
-<externallink>LINK_MENU_DUBLADOS</externallink>
-<fanart>LINK_FANART</fanart>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES LEGENDADOS[/COLOR][/B]</name>
-<thumbnail>LINK_THUMB_LEGENDADOS</thumbnail>
-<externallink>LINK_MENU_LEGENDADOS</externallink>
-<fanart>LINK_FANART</fanart>
-</channel>
 
 </channels>
 
