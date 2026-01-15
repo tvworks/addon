@@ -1,9 +1,9 @@
 <item>
-<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
-<link>plugin://plugin.video.elementum/play/?uri=</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<title>[B]When Love Springs[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:c7abf67c2879e87a3d46fe130a385a4bed7a7ae1&dn=HIDRATORRENTS.ORG..MKV.Quando.Nasce.o.Amor.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYjY5YjU4NGYtODc3ZC00OTk0LTljNWMtZjU2NGFlYjA3YzVmXkEyXkFqcGc@._V1_.jpg</thumbnail>
 <fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<info>Rory vai para um pitoresco B&B no lago onde seus pais estão renovando seus votos. Ela esbarra no ex-namorado que partiu seu coração que está lá com sua nova namorada. Para se salvar, Rory agarra o dono do B&B, Noah e finge que é o namorado dela. Por que Noah concordaria com essa farsa? O B&B está indo mal, mas um blogueiro de viagens está vindo para avaliar o local. Com experiência em relações públicas, Rory se oferece para ajudar Noah a se preparar em troca dele fingir ser seu namorado.</info>
 </item>
 
 <item>
