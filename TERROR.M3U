@@ -1,0 +1,15 @@
+<item>
+<title>[B]VÍDEO DO GOOGLE DRIVE[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
