@@ -1,118 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
-http://1tv41.icu:8080/xWP0a5/674148/22995
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
-http://1tv41.icu:8080/xWP0a5/674148/20073
-#EXTINF:-1 tvg-name="NBA 01: Washington Wizards @ Charlotte Hornets | Away Stream | 12/23/2025 7:00 PM ET" group-title="NBA",NBA 01: Washington Wizards @ Charlotte Hornets | Away Stream | 12/23/2025 7:00 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258050
-#EXTINF:-1 tvg-name="USA Real NBA 01: Washington Wizards vs Charlotte Hornets @ 07:00 PM EST" group-title="NBA",USA Real NBA 01: Washington Wizards vs Charlotte Hornets @ 07:00 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258051
-#EXTINF:-1 tvg-name="NBA 02: Washington Wizards @ Charlotte Hornets | Home Stream | 12/23/2025 7:00 PM ET" group-title="NBA",NBA 02: Washington Wizards @ Charlotte Hornets | Home Stream | 12/23/2025 7:00 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258052
-#EXTINF:-1 tvg-name="USA Real NBA 02: Brooklyn Nets vs Philadelphia 76ers @ 07:00 PM EST" group-title="NBA",USA Real NBA 02: Brooklyn Nets vs Philadelphia 76ers @ 07:00 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258053
-#EXTINF:-1 tvg-name="NBA 03: Toronto Raptors @ Miami Heat | Home Stream | 12/23/2025 7:30 PM ET" group-title="NBA",NBA 03: Toronto Raptors @ Miami Heat | Home Stream | 12/23/2025 7:30 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258054
-#EXTINF:-1 tvg-name="USA Real NBA 03: Chicago Bulls vs Atlanta Hawks @ 07:30 PM EST" group-title="NBA",USA Real NBA 03: Chicago Bulls vs Atlanta Hawks @ 07:30 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258055
-#EXTINF:-1 tvg-name="NBA 04: Toronto Raptors @ Miami Heat | Away Stream | 12/23/2025 7:30 PM ET" group-title="NBA",NBA 04: Toronto Raptors @ Miami Heat | Away Stream | 12/23/2025 7:30 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258056
-#EXTINF:-1 tvg-name="USA Real NBA 04: New Orleans Pelicans vs Cleveland Cavaliers @ 07:30 PM EST" group-title="NBA",USA Real NBA 04: New Orleans Pelicans vs Cleveland Cavaliers @ 07:30 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258057
-#EXTINF:-1 tvg-name="NBA 05: Milwaukee Bucks @ Indiana Pacers | Home Stream | 12/23/2025 7:30 PM ET" group-title="NBA",NBA 05: Milwaukee Bucks @ Indiana Pacers | Home Stream | 12/23/2025 7:30 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258058
-#EXTINF:-1 tvg-name="USA Real NBA 05: Milwaukee Bucks vs Indiana Pacers @ 07:30 PM EST" group-title="NBA",USA Real NBA 05: Milwaukee Bucks vs Indiana Pacers @ 07:30 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258059
-#EXTINF:-1 tvg-name="NBA 06: Milwaukee Bucks @ Indiana Pacers | Away Stream | 12/23/2025 7:30 PM ET" group-title="NBA",NBA 06: Milwaukee Bucks @ Indiana Pacers | Away Stream | 12/23/2025 7:30 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258060
-#EXTINF:-1 tvg-name="USA Real NBA 06: Toronto Raptors vs Miami Heat @ 07:30 PM EST" group-title="NBA",USA Real NBA 06: Toronto Raptors vs Miami Heat @ 07:30 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258061
-#EXTINF:-1 tvg-name="NBA 07: New Orleans Pelicans @ Cleveland Cavaliers | Home Stream | 12/23/2025 7:30 PM ET" group-title="NBA",NBA 07: New Orleans Pelicans @ Cleveland Cavaliers | Home Stream | 12/23/2025 7:30 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258062
-#EXTINF:-1 tvg-name="USA Real NBA 07: Denver Nuggets vs Dallas Mavericks @ 08:00 PM EST" group-title="NBA",USA Real NBA 07: Denver Nuggets vs Dallas Mavericks @ 08:00 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258063
-#EXTINF:-1 tvg-name="NBA 08: New Orleans Pelicans @ Cleveland Cavaliers | Away Stream | 12/23/2025 7:30 PM ET" group-title="NBA",NBA 08: New Orleans Pelicans @ Cleveland Cavaliers | Away Stream | 12/23/2025 7:30 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258064
-#EXTINF:-1 tvg-name="USA Real NBA 08: New York Knicks vs Minnesota Timberwolves @ 08:00 PM EST" group-title="NBA",USA Real NBA 08: New York Knicks vs Minnesota Timberwolves @ 08:00 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258065
-#EXTINF:-1 tvg-name="NBA 09: Chicago Bulls @ Atlanta Hawks | Home Stream | 12/23/2025 7:30 PM ET" group-title="NBA",NBA 09: Chicago Bulls @ Atlanta Hawks | Home Stream | 12/23/2025 7:30 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258066
-#EXTINF:-1 tvg-name="USA Real NBA 09: Oklahoma City Thunder vs San Antonio Spurs @ 08:30 PM EST" group-title="NBA",USA Real NBA 09: Oklahoma City Thunder vs San Antonio Spurs @ 08:30 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258067
-#EXTINF:-1 tvg-name="NBA 10: Chicago Bulls @ Atlanta Hawks | Away Stream | 12/23/2025 7:30 PM ET" group-title="NBA",NBA 10: Chicago Bulls @ Atlanta Hawks | Away Stream | 12/23/2025 7:30 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258068
-#EXTINF:-1 tvg-name="USA Real NBA 10: Los Angeles Lakers vs Phoenix Suns @ 09:00 PM EST" group-title="NBA",USA Real NBA 10: Los Angeles Lakers vs Phoenix Suns @ 09:00 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258069
-#EXTINF:-1 tvg-name="NBA 11: New York Knicks @ Minnesota Timberwolves | Home Stream | 12/23/2025 8:00 PM ET" group-title="NBA",NBA 11: New York Knicks @ Minnesota Timberwolves | Home Stream | 12/23/2025 8:00 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258070
-#EXTINF:-1 tvg-name="USA Real NBA 11: Memphis Grizzlies vs Utah Jazz @ 09:00 PM EST" group-title="NBA",USA Real NBA 11: Memphis Grizzlies vs Utah Jazz @ 09:00 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258071
-#EXTINF:-1 tvg-name="NBA 12: New York Knicks @ Minnesota Timberwolves | Away Stream | 12/23/2025 8:00 PM ET" group-title="NBA",NBA 12: New York Knicks @ Minnesota Timberwolves | Away Stream | 12/23/2025 8:00 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258072
-#EXTINF:-1 tvg-name="USA Real NBA 12: Orlando Magic vs Portland Trail Blazers @ 10:00 PM EST" group-title="NBA",USA Real NBA 12: Orlando Magic vs Portland Trail Blazers @ 10:00 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258073
-#EXTINF:-1 tvg-name="NBA 13: Denver Nuggets @ Dallas Mavericks | Home Stream | 12/23/2025 8:00 PM ET" group-title="NBA",NBA 13: Denver Nuggets @ Dallas Mavericks | Home Stream | 12/23/2025 8:00 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258074
-#EXTINF:-1 tvg-name="USA Real NBA 13: Detroit Pistons vs Sacramento Kings @ 10:00 PM EST" group-title="NBA",USA Real NBA 13: Detroit Pistons vs Sacramento Kings @ 10:00 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258075
-#EXTINF:-1 tvg-name="NBA 14: Denver Nuggets @ Dallas Mavericks | Away Stream | 12/23/2025 8:00 PM ET" group-title="NBA",NBA 14: Denver Nuggets @ Dallas Mavericks | Away Stream | 12/23/2025 8:00 PM ET
-http://1tv41.icu:8080/xWP0a5/674148/258076
-#EXTINF:-1 tvg-name="USA Real NBA 14: Houston Rockets vs LA Clippers @ 10:30 PM EST" group-title="NBA",USA Real NBA 14: Houston Rockets vs LA Clippers @ 10:30 PM EST
-http://1tv41.icu:8080/xWP0a5/674148/258077
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",CA-NBA TV
-http://xxip9.top:8080/14263899/04468572/22995
-#EXTINF:-1 group-title="NBA" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",USA: NBA TV
-http://xxip9.top:8080/14263899/04468572/20073
-#EXTINF:-1 group-title="NBA",NBA 01: Chicago Bulls @ Detroit Pistons | Home Stream | 01/07/2026 7:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258655
-#EXTINF:-1 group-title="NBA",USA Real NBA 01: DEN Nuggets VS BOS Celtics ( ESPN Feed ) @ 7:00 PM
-http://xxip9.top:8080/14263899/04468572/258656
-#EXTINF:-1 group-title="NBA",NBA 02: Chicago Bulls @ Detroit Pistons | Away Stream | 01/07/2026 7:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258657
-#EXTINF:-1 group-title="NBA",USA Real NBA 02: LAL Lakers VS SAS Spurs ( ESPN Feed ) @ 9:30 PM
-http://xxip9.top:8080/14263899/04468572/258658
-#EXTINF:-1 group-title="NBA",NBA 03: Toronto Raptors @ Charlotte Hornets | Home Stream | 01/07/2026 7:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258659
-#EXTINF:-1 group-title="NBA",USA Real NBA 03: Toronto Raptors vs Charlotte Hornets @ 07:00 PM EST
-http://xxip9.top:8080/14263899/04468572/258660
-#EXTINF:-1 group-title="NBA",NBA 04: Toronto Raptors @ Charlotte Hornets | Away Stream | 01/07/2026 7:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258661
-#EXTINF:-1 group-title="NBA",USA Real NBA 04: Chicago Bulls vs Detroit Pistons @ 07:00 PM EST
-http://xxip9.top:8080/14263899/04468572/258662
-#EXTINF:-1 group-title="NBA",NBA 05: Denver Nuggets @ Boston Celtics | Home Stream | 01/07/2026 7:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258663
-#EXTINF:-1 group-title="NBA",USA Real NBA 05: Washington Wizards vs Philadelphia 76ers @ 07:00 PM EST
-http://xxip9.top:8080/14263899/04468572/258664
-#EXTINF:-1 group-title="NBA",NBA 06: Denver Nuggets @ Boston Celtics | Away Stream | 01/07/2026 7:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258665
-#EXTINF:-1 group-title="NBA",USA Real NBA 06: New Orleans Pelicans vs Atlanta Hawks @ 07:30 PM EST
-http://xxip9.top:8080/14263899/04468572/258666
-#EXTINF:-1 group-title="NBA",NBA 07: Orlando Magic @ Brooklyn Nets | Home Stream | 01/07/2026 7:30 PM ET
-http://xxip9.top:8080/14263899/04468572/258667
-#EXTINF:-1 group-title="NBA",USA Real NBA 07: Orlando Magic vs Brooklyn Nets @ 07:30 PM EST
-http://xxip9.top:8080/14263899/04468572/258668
-#EXTINF:-1 group-title="NBA",NBA 08: Orlando Magic @ Brooklyn Nets | Away Stream | 01/07/2026 7:30 PM ET
-http://xxip9.top:8080/14263899/04468572/258669
-#EXTINF:-1 group-title="NBA",USA Real NBA 08: LA Clippers vs New York Knicks @ 07:30 PM EST
-http://xxip9.top:8080/14263899/04468572/258670
-#EXTINF:-1 group-title="NBA",NBA 09: New Orleans Pelicans @ Atlanta Hawks | Home Stream | 01/07/2026 7:30 PM ET
-http://xxip9.top:8080/14263899/04468572/258671
-#EXTINF:-1 group-title="NBA",USA Real NBA 09: Phoenix Suns vs Memphis Grizzlies @ 08:00 PM EST
-http://xxip9.top:8080/14263899/04468572/258672
-#EXTINF:-1 group-title="NBA",NBA 10: New Orleans Pelicans @ Atlanta Hawks | Away Stream | 01/07/2026 7:30 PM ET
-http://xxip9.top:8080/14263899/04468572/258673
-#EXTINF:-1 group-title="NBA",USA Real NBA 10: Utah Jazz vs Oklahoma City Thunder @ 08:00 PM EST
-http://xxip9.top:8080/14263899/04468572/258674
-#EXTINF:-1 group-title="NBA",NBA 11: Utah Jazz @ Oklahoma City Thunder | Home Stream | 01/07/2026 8:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258675
-#EXTINF:-1 group-title="NBA",USA Real NBA 11: Milwaukee Bucks vs Golden State Warriors @ 10:00 PM EST
-http://xxip9.top:8080/14263899/04468572/258676
-#EXTINF:-1 group-title="NBA",NBA 12: Utah Jazz @ Oklahoma City Thunder | Away Stream | 01/07/2026 8:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258677
-#EXTINF:-1 group-title="NBA",USA Real NBA 12: Houston Rockets vs Portland Trail Blazers @ 10:00 PM EST
-http://xxip9.top:8080/14263899/04468572/258678
-#EXTINF:-1 group-title="NBA",NBA 13: Phoenix Suns @ Memphis Grizzlies | Home Stream | 01/07/2026 8:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258679
-#EXTINF:-1 group-title="NBA",NBA 14: Phoenix Suns @ Memphis Grizzlies | Away Stream | 01/07/2026 8:00 PM ET
-http://xxip9.top:8080/14263899/04468572/258680
-
+#EXTINF:-1 tvg-name="NBA League Pass 12" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 12
+http://topstr99.top:80/278578/260465/152471.ts
+#EXTINF:-1 tvg-name="NBA League Pass 11" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 11
+http://topstr99.top:80/278578/260465/152472.ts
+#EXTINF:-1 tvg-name="NBA League Pass 10" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 10
+http://topstr99.top:80/278578/260465/152473.ts
+#EXTINF:-1 tvg-name="NBA League Pass 09" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 09
+http://topstr99.top:80/278578/260465/152474.ts
+#EXTINF:-1 tvg-name="NBA League Pass 08" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 08
+http://topstr99.top:80/278578/260465/152475.ts
+#EXTINF:-1 tvg-name="NBA League Pass 06" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 06
+http://topstr99.top:80/278578/260465/152477.ts
+#EXTINF:-1 tvg-name="NBA League Pass 07" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 07
+http://topstr99.top:80/278578/260465/152478.ts
+#EXTINF:-1 tvg-name="NBA League Pass 05" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 05
+http://topstr99.top:80/278578/260465/152479.ts
+#EXTINF:-1 tvg-name="NBA League Pass 04" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 04
+http://topstr99.top:80/278578/260465/152480.ts
+#EXTINF:-1 tvg-name="NBA League Pass 03" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 03
+http://topstr99.top:80/278578/260465/152481.ts
+#EXTINF:-1 tvg-name="NBA League Pass 02" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 02
+http://topstr99.top:80/278578/260465/152482.ts
+#EXTINF:-1 tvg-name="NBA League Pass 01" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 01
+http://topstr99.top:80/278578/260465/152483.ts
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA TV
+http://topstr99.top:80/278578/260465/152490.ts
