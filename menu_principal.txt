@@ -65,11 +65,4 @@
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMEXXX[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/IsO6B1X.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/ADULTOS.M3U</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-</channel>
-
 </channels>
