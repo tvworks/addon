@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="americatv.ar" tvg-name="ARG: AMERICA" tvg-logo="http://185.193.88.130:80/images/ffbb4061635ead943ac3b5033f26bae2.png" group-title="ARG: Argentina General",ARG: AMERICA
 http://jackofclubs.vip:80/Gabriel1/Gabriel1/221555.ts
 #EXTINF:-1 tvg-id="BabyTVAr.qa" tvg-name="ARG: BABY TV HD" tvg-logo="http://185.193.88.130:80/images/a9b6fe6f6ee3126a4a988eeee3b95a41.png" group-title="ARG: Argentina Kids",ARG: BABY TV HD
@@ -153,4 +154,5 @@ http://jackofclubs.vip:80/Gabriel1/Gabriel1/228236.ts
 #EXTINF:-1 tvg-id="volver.ar" tvg-name="ARG: VOLVER" tvg-logo="http://185.193.88.130:80/images/a5dfe8eed9e86ed930bf71ea7b3a135e.png" group-title="ARG: Argentina Entertainment",ARG: VOLVER
 http://jackofclubs.vip:80/Gabriel1/Gabriel1/228239.ts
 #EXTINF:-1 tvg-id="warnerchannel.ar" tvg-name="ARG: WARNER HD" tvg-logo="http://185.193.88.130:80/images/a0c15650bdcf337abbc11164ce82a116.png" group-title="ARG: Argentina Entertainment",ARG: WARNER HD
+
 http://jackofclubs.vip:80/Gabriel1/Gabriel1/228240.ts
