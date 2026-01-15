@@ -5,14 +5,14 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]LISTA 1[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/pedrom9550/listas/refs/heads/main/TV/ITALIA/LISTA1.M3U</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/ITALIA/LISTA1.M3U</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]LISTA 2[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/ITALIA/LISTA2.m3u</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
