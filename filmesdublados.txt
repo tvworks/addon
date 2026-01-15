@@ -7,6 +7,110 @@
 </item>
 
 <item>
+<title>[B]Malum[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:68eaa70f4c72bea1233d95921a302034e9703a8c&dn=HIDRATORRENTS.ORG..MKV.Malum.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Uma policial novata assume voluntariamente o último turno em uma delegacia de polícia recém-desativada. Ela espera descobrir a misteriosa conexão entre a morte de seu pai e um culto, mas durante a noite ela é surpreendida por terríveis eventos sobrenaturais que se conectam ao passado insólito de sua família.</info>
+</item>
+
+<item>
+<title>[B]Voice of Shadows[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:c1b185ce5c28a937d2d7e831190d9cfe2454dfb3&dn=HIDRATORRENTS.ORG..MKV.A.Voz.das.Sombras.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODliMDg0NmItOWE5ZS00MjI4LWFjNmQtZDg0OTMwNmEwMzFkXkEyXkFqcGc@._V1_.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Uma mulher herdará uma propriedade se ela e seu namorado cumprirem um conjunto de estipulações bizarras.</info>
+</item>
+
+<item>
+<title>[B]Futra Days[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:a499a1c2c6140fc7d28c3b8121e4ee2cfc2c8a69&dn=HIDRATORRENTS.ORG..MKV.Dias.Futuros.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mIxNeYt82WvgYWC4TF9RPP0xPfd.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Depois de passar por um processo experimental de viagem no tempo que envia um homem para seu futuro, ele investiga o homem que se tornou, envolvendo-se em um romance com a namorada de seu futuro em uma realidade alucinante.</info>
+</item>
+
+<item>
+<title>[B]All You Need Is Blood[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:ba6899d4722a58f264f19f6d32d0a79c10932fbd&dn=HIDRATORRENTS.ORG..MKV.Voc%C3%AA.S%C3%B3.Precisa.de.Sangue.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wKsEuOFH9cdMXljHZ7QKjfO0EoH.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Um adolescente aspirante à cineasta escolhe o protagonista perfeito para seu filme de zumbis: seu pai morto-vivo.</info>
+</item>
+
+<item>
+<title>[B]Minore[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:52f5276fce6a5d9ff6c168df418728c344d4e8ed&dn=HIDRATORRENTS.ORG..MKV.O.Ataque.dos.Monstros.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmNjNzEyNjgtNTA3OS00MjM4LTljMWMtMGJhZTFiMjhiYzZlXkEyXkFqcGc@._V1_.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Quando misteriosas criaturas invadem um porto na Grécia, um grupo de pessoas desajustadas formado por músicos, fisiculturistas, turistas e avós se reúne para tentar salvar a cidade.</info>
+</item>
+
+<item>
+<title>[B]The Final Load[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:4cfd1cbf2687ee5aa5caecd8354af254c52860f7&dn=HIDRATORRENTS.ORG..MKV.Carga.Final.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZThjM2M5MjQtMDk3MS00OGFiLTgzZjQtZWQ2ODMxOGM1OWI0XkEyXkFqcGc@._V1_.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Com Pierce Butler, um ex-marinheiro e antigo traficante de maconha volta à clandestinidade para ajudar a esposa em estado terminal. Num último risco, ele enfrenta o passado e luta pela redenção.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
 <title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
 <link>plugin://plugin.video.elementum/play/?uri=</link>
 <thumbnail>THUMBNAIL DO FILME</thumbnail>
