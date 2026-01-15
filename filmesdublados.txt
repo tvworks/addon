@@ -55,27 +55,27 @@
 </item>
 
 <item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play/?uri=</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<title>[B]Romi[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:603e3cd1261cf3021bae6469d8d450f35e39a061&dn=HIDRATORRENTS.ORG..MKV.Romi.A.Assistente.Virtual.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWNiMDE2MTgtMTIzYy00MWI4LWI3NDctZDdlY2EzMzAyMGJhXkEyXkFqcGc@._V1_.jpg</thumbnail>
 <fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<info>Após se envolver em um acidente, Maddie decide se esconder em uma luxuosa casa inteligente, mas passa a ser aterrorizada pela assistente virtual do lugar.</info>
 </item>
 
 <item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play/?uri=</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<title>[B]Rental Family[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:74C7DBACE5787CBF2518385F1A0618E2350C79B5&dn=HIDRATORRENTS.ORG..Rental.Family.2025.1080p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BY2E4MDMzZjQtN2UxNi00ODgxLWJiZmMtZmEwZWUzYmY1ZDQzXkEyXkFqcGc@._V1_.jpg</thumbnail>
 <fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<info>Um ator americano em Tóquio, em busca de um propósito na vida, consegue um emprego incomum: trabalhar para uma agência japonesa de famílias de aluguel interpretando papéis de estranhos. À medida que ele se imerge nos mundos de seus clientes, começa a formar laços genuínos que borram as linhas entre a performance e a realidade. Confrontando as complexidades morais de seu trabalho, ele redescobre propósito, pertencimento e a beleza silenciosa da conexão humana.</info>
 </item>
 
 <item>
-<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play/?uri=</link>
-<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<title>[B]Here Kills the Bride[/B]</title>
+<link>plugin://plugin.video.elementum/play/?uri=magnet:?xt=urn:btih:277e5c80a36e21533d666825d2a2df9fce0728dd&dn=HIDRATORRENTS.ORG..MKV.Veu.Grinalda.e.Sangue.2022.1080p.WEB-DL.DUBLADO.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/uSx37nkzHoWHdLaHXKCulwNzd4u.jpg</thumbnail>
 <fanart>FANART DO FILME</fanart>
-<info>TEXTO DE SINOPSE.</info>
+<info>Jasmine está convencida de que algo está errado com Grace, a noiva de seu irmão Carlos, quando descobre que eles se conheceram em um clube de strip-tease e irão se casar em uma semana. Então, Jasmine decide investigar a noiva e seu passado, colocando sua própria vida em risco, já que Grace não tem medo de eliminar quem possa ameaçar sua felicidade.</info>
 </item>
 
 <item>
