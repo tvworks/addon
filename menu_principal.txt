@@ -10,6 +10,13 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/FTd5zrN.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/SPORTS.M3U</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]CANAIS 24[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/CANAIS24.m3u</externallink>
