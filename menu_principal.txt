@@ -3,6 +3,13 @@
 <channels>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TESTEF4MTESTER[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/FTd5zrN.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TESTEF4MTESTER.M3U</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/FTd5zrN.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/menu_tv.txt</externallink>
