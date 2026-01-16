@@ -45,7 +45,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]●[/COLOR] [COLOR white]LISTA7[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]LISTA7[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TV/PORTUGAL/LISTA7.M3U</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
