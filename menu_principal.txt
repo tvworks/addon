@@ -52,6 +52,13 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]VOD SPAIN[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/VOD%20SPAIN.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]TERROR[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TERROR.M3U</externallink>
