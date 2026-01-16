@@ -24,13 +24,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]NBA[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/NBA.m3u</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES TORRENT[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/MenuFilmes/menu_filmes.txt</externallink>
