@@ -1,27 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NBA League Pass 12" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 12
-http://topstr99.top:80/278578/260465/152471.ts
-#EXTINF:-1 tvg-name="NBA League Pass 11" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 11
-http://topstr99.top:80/278578/260465/152472.ts
-#EXTINF:-1 tvg-name="NBA League Pass 10" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 10
-http://topstr99.top:80/278578/260465/152473.ts
-#EXTINF:-1 tvg-name="NBA League Pass 09" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 09
-http://topstr99.top:80/278578/260465/152474.ts
-#EXTINF:-1 tvg-name="NBA League Pass 08" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 08
-http://topstr99.top:80/278578/260465/152475.ts
-#EXTINF:-1 tvg-name="NBA League Pass 06" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 06
-http://topstr99.top:80/278578/260465/152477.ts
-#EXTINF:-1 tvg-name="NBA League Pass 07" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 07
-http://topstr99.top:80/278578/260465/152478.ts
-#EXTINF:-1 tvg-name="NBA League Pass 05" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 05
-http://topstr99.top:80/278578/260465/152479.ts
-#EXTINF:-1 tvg-name="NBA League Pass 04" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 04
-http://topstr99.top:80/278578/260465/152480.ts
-#EXTINF:-1 tvg-name="NBA League Pass 03" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 03
-http://topstr99.top:80/278578/260465/152481.ts
-#EXTINF:-1 tvg-name="NBA League Pass 02" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 02
-http://topstr99.top:80/278578/260465/152482.ts
-#EXTINF:-1 tvg-name="NBA League Pass 01" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA League Pass 01
-http://topstr99.top:80/278578/260465/152483.ts
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://logos.imperioapps.top/NBA.png" group-title="♦️Canais | NBA",NBA TV
-http://topstr99.top:80/278578/260465/152490.ts
+#EXTINF:-1 tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
+http://cord-cutter.net:8080/134152079/134152079/22995
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
+http://cord-cutter.net:8080/134152079/134152079/20073
+#EXTINF:-1 tvg-name="NBA 01: Phoenix Suns @ Miami Heat | Away Stream | 01/13/2026 7:30 PM ET" group-title="NBA",NBA 01: Phoenix Suns @ Miami Heat | Away Stream | 01/13/2026 7:30 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259118
+#EXTINF:-1 tvg-name="USA Real NBA 01: Phoenix Suns vs Miami Heat @ 07:30 PM EST" group-title="NBA",USA Real NBA 01: Phoenix Suns vs Miami Heat @ 07:30 PM EST
+http://cord-cutter.net:8080/134152079/134152079/259119
+#EXTINF:-1 tvg-name="NBA 02: Phoenix Suns @ Miami Heat | Home Stream | 01/13/2026 7:30 PM ET" group-title="NBA",NBA 02: Phoenix Suns @ Miami Heat | Home Stream | 01/13/2026 7:30 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259120
+#EXTINF:-1 tvg-name="USA Real NBA 02: Chicago Bulls vs Houston Rockets @ 08:00 PM EST" group-title="NBA",USA Real NBA 02: Chicago Bulls vs Houston Rockets @ 08:00 PM EST
+http://cord-cutter.net:8080/134152079/134152079/259121
+#EXTINF:-1 tvg-name="NBA 03: Chicago Bulls @ Houston Rockets | Away Stream | 01/13/2026 8:00 PM ET" group-title="NBA",NBA 03: Chicago Bulls @ Houston Rockets | Away Stream | 01/13/2026 8:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259122
+#EXTINF:-1 tvg-name="USA Real NBA 03: Minnesota Timberwolves vs Milwaukee Bucks @ 08:00 PM EST" group-title="NBA",USA Real NBA 03: Minnesota Timberwolves vs Milwaukee Bucks @ 08:00 PM EST
+http://cord-cutter.net:8080/134152079/134152079/259123
+#EXTINF:-1 tvg-name="NBA 04: Chicago Bulls @ Houston Rockets | Home Stream | 01/13/2026 8:00 PM ET" group-title="NBA",NBA 04: Chicago Bulls @ Houston Rockets | Home Stream | 01/13/2026 8:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259124
+#EXTINF:-1 tvg-name="USA Real NBA 04: Denver Nuggets vs New Orleans Pelicans @ 08:00 PM EST" group-title="NBA",USA Real NBA 04: Denver Nuggets vs New Orleans Pelicans @ 08:00 PM EST
+http://cord-cutter.net:8080/134152079/134152079/259125
+#EXTINF:-1 tvg-name="NBA 05: Minnesota Timberwolves @ Milwaukee Bucks | Away Stream | 01/13/2026 8:00 PM ET" group-title="NBA",NBA 05: Minnesota Timberwolves @ Milwaukee Bucks | Away Stream | 01/13/2026 8:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259126
+#EXTINF:-1 tvg-name="USA Real NBA 05: San Antonio Spurs vs Oklahoma City Thunder @ 08:00 PM EST" group-title="NBA",USA Real NBA 05: San Antonio Spurs vs Oklahoma City Thunder @ 08:00 PM EST
+http://cord-cutter.net:8080/134152079/134152079/259127
+#EXTINF:-1 tvg-name="NBA 06: Minnesota Timberwolves @ Milwaukee Bucks | Home Stream | 01/13/2026 8:00 PM ET" group-title="NBA",NBA 06: Minnesota Timberwolves @ Milwaukee Bucks | Home Stream | 01/13/2026 8:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259128
+#EXTINF:-1 tvg-name="USA Real NBA 06: Atlanta Hawks vs Los Angeles Lakers @ 10:30 PM EST" group-title="NBA",USA Real NBA 06: Atlanta Hawks vs Los Angeles Lakers @ 10:30 PM EST
+http://cord-cutter.net:8080/134152079/134152079/259129
+#EXTINF:-1 tvg-name="NBA 07: Denver Nuggets @ New Orleans Pelicans | Away Stream | 01/13/2026 8:00 PM ET" group-title="NBA",NBA 07: Denver Nuggets @ New Orleans Pelicans | Away Stream | 01/13/2026 8:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259130
+#EXTINF:-1 tvg-name="USA Real NBA 07: Portland Trail Blazers vs Golden State Warriors @ 11:00 PM EST" group-title="NBA",USA Real NBA 07: Portland Trail Blazers vs Golden State Warriors @ 11:00 PM EST
+http://cord-cutter.net:8080/134152079/134152079/259131
+#EXTINF:-1 tvg-name="NBA 08: Denver Nuggets @ New Orleans Pelicans | Home Stream | 01/13/2026 8:00 PM ET" group-title="NBA",NBA 08: Denver Nuggets @ New Orleans Pelicans | Home Stream | 01/13/2026 8:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259132
+#EXTINF:-1 tvg-name="NBA 09: San Antonio Spurs @ Oklahoma City Thunder | Away Stream | 01/13/2026 8:00 PM ET" group-title="NBA",NBA 09: San Antonio Spurs @ Oklahoma City Thunder | Away Stream | 01/13/2026 8:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259133
+#EXTINF:-1 tvg-name="NBA 10: San Antonio Spurs @ Oklahoma City Thunder | Home Stream | 01/13/2026 8:00 PM ET" group-title="NBA",NBA 10: San Antonio Spurs @ Oklahoma City Thunder | Home Stream | 01/13/2026 8:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259134
+#EXTINF:-1 tvg-name="NBA 11: Atlanta Hawks @ Los Angeles Lakers | Home Stream | 01/13/2026 10:30 PM ET" group-title="NBA",NBA 11: Atlanta Hawks @ Los Angeles Lakers | Home Stream | 01/13/2026 10:30 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259135
+#EXTINF:-1 tvg-name="NBA 12: Atlanta Hawks @ Los Angeles Lakers | Away Stream | 01/13/2026 10:30 PM ET" group-title="NBA",NBA 12: Atlanta Hawks @ Los Angeles Lakers | Away Stream | 01/13/2026 10:30 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259136
+#EXTINF:-1 tvg-name="NBA 13: Portland Trail Blazers @ Golden State Warriors | Home Stream | 01/13/2026 11:00 PM ET" group-title="NBA",NBA 13: Portland Trail Blazers @ Golden State Warriors | Home Stream | 01/13/2026 11:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259137
+#EXTINF:-1 tvg-name="NBA 14: Portland Trail Blazers @ Golden State Warriors | Away Stream | 01/13/2026 11:00 PM ET" group-title="NBA",NBA 14: Portland Trail Blazers @ Golden State Warriors | Away Stream | 01/13/2026 11:00 PM ET
+http://cord-cutter.net:8080/134152079/134152079/259138
