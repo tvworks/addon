@@ -12,6 +12,20 @@ http://1tv41.icu:8080/ahx4CN/815233/167748
 http://1tv41.icu:8080/ahx4CN/815233/167749
 #EXTINF:-1,PT: ELEVEN SPORTS 5 HD
 http://1tv41.icu:8080/ahx4CN/815233/167750
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://nocable.cc:8080/g5EXrY/538579/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://nocable.cc:8080/g5EXrY/538579/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://nocable.cc:8080/g5EXrY/538579/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://nocable.cc:8080/g5EXrY/538579/167745
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://nocable.cc:8080/g5EXrY/538579/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://nocable.cc:8080/g5EXrY/538579/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://nocable.cc:8080/g5EXrY/538579/167750
 #EXTINF:-1 tvg-name="ESPN + MX" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN + MX
 http://compitv.lat:8080//live/DanielLoaiza7/T8CSE9MY9/268518.ts
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN HD
@@ -146,3 +160,4 @@ http://compitv.lat:8080//live/DanielLoaiza7/T8CSE9MY9/124783.ts
 http://compitv.lat:8080//live/DanielLoaiza7/T8CSE9MY9/124782.ts
 #EXTINF:-1 tvg-name="DZN | M. DAZN LA LIGA 1 HD" tvg-logo="https://i.postimg.cc/xdRNq0xq/IMG-20250715-WA0327.jpg" group-title="⚽  DAZN PREMIUM",DZN | M. DAZN LA LIGA 1 HD
 http://compitv.lat:8080//live/DanielLoaiza7/T8CSE9MY9/124779.ts
+
