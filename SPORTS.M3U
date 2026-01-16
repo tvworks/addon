@@ -26,6 +26,10 @@ http://nocable.cc:8080/g5EXrY/538579/167748
 http://nocable.cc:8080/g5EXrY/538579/167749
 #EXTINF:-1,PT: ELEVEN SPORTS 5 HD
 http://nocable.cc:8080/g5EXrY/538579/167750
+#EXTINF:-1 tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
+http://cord-cutter.net:8080/134152079/134152079/22995
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
+http://cord-cutter.net:8080/134152079/134152079/20073
 #EXTINF:-1 tvg-name="ESPN + MX" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN + MX
 http://compitv.lat:8080//live/DanielLoaiza7/T8CSE9MY9/268518.ts
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN HD
@@ -334,5 +338,6 @@ http://next-tv.xyz:25461/XX24SuadViberRazmjena50/SPfbtyeepaup/1670
 http://next-tv.xyz:25461/XX24SuadViberRazmjena50/SPfbtyeepaup/14103
 #EXTINF:-1 tvg-id="6413" tvg-name="Viasat Motor" group-title="Sport",Viasat Motor
 http://next-tv.xyz:25461/XX24SuadViberRazmjena50/SPfbtyeepaup/6413
+
 
 
