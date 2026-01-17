@@ -38,13 +38,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]TERROR[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/TERROR.M3U</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-</channel>
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]24H SERIES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/24HSERIES.m3u</externallink>
@@ -55,13 +48,6 @@
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES TORRENT[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/MenuSeries/menu_series.txt</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]RADIOS[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/RADIOS.m3u</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
