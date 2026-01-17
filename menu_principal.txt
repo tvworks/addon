@@ -17,6 +17,13 @@
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES TORRENT[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/MenuSeries/menu_series.txt</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES LEGENDADOS[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/FILMES%20LEGENDADOS.m3u</externallink>
@@ -24,17 +31,11 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]DUBLADOS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES DUBLADOS[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/filmesdublados.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES TORRENT[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/b2imW6r.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/MenuSeries/menu_series.txt</externallink>
-<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
-</channel>
 
 </channels>
