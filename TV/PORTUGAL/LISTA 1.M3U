@@ -1,21 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO" tvg-logo="https://docdog.top/logo/countries/portugal/tvificcao.png" group-title="PT | OTHERS",PT: TVI FICCAO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/102
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 1" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/108
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 2" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/109
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAMARA 3" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/110
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/travelchannel.png" group-title="PT | OTHERS",PT: TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/99
-#EXTINF:-1 tvg-id="" tvg-name="PT: VH1" tvg-logo="https://docdog.top/logo/countries/portugal/vh1.png" group-title="PT | OTHERS",PT: VH1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/104
-#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA" tvg-logo="https://docdog.top/logo/countries/portugal/zapviva.png" group-title="PT | OTHERS",PT: ZAP VIVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/105
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/99475
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://vipboacnn.top:8080/VIP01545171425617373/ca75a1a2314d/99476
-
+#
 
 
